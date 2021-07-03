@@ -1,3 +1,3 @@
 # UI - Developer Assessment 01
 
-Link: https://rahulxsaha.github.io/test/
+Link: http://rahulsaha.epizy.com/pages/assessment_01.html
